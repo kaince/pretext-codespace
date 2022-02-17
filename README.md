@@ -1,2 +1,4 @@
-# qr-for-social-justice
- Quantitative Reasoning for Social Justice: an Active Learning Workbook
+# My Great Book
+
+TODO this should have some simple build information
+and/or a link to documentation
