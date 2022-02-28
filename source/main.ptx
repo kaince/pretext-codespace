@@ -14,20 +14,20 @@
   <!-- to some short (non-spaced) description of your book         -->
   <book xml:id="my-great-book">
     <!-- The book needs a title and can have a subtitle  -->
-    <title>My Great Book</title>
-    <subtitle>An example to be modified</subtitle>
+    <title>Quantitative Reasoning for Social Justice</title>
+    <subtitle>An active learning workbook</subtitle>
 
     <!-- Now we include files containing each main devision.       -->
 
     <!-- First a frontmatter for prefaces and such. Maybe comment  -->
     <!-- out for now and write this when the book is more complete -->
-    <xi:include href="./frontmatter.ptx" />
+    <!-- <xi:include href="./frontmatter.ptx" /> -->
 
     <!-- The first chapter will be bare bones to illustrate the    -->
     <!-- possible structure of the book.  Once you know what the   -->
     <!-- title of the chapter is, rename the file something based  -->
     <!-- on the title (ch-shorttitle.ptx) both here and on disk    -->
-    <xi:include href="./ch_first-chapter.ptx" />
+    <xi:include href="./ch_crashcourse.ptx" />
     <xi:include href="./ch_empty.ptx"/>
     <!-- Of course you will want to add more chapters as you proceed-->
 
