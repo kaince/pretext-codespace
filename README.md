@@ -1,19 +1,22 @@
-# PreTeXt Codespace
+# Quantitative Reasoning for Social Justice: An Active Learning Workbook
 
-Use this template repository to quickly start a new [PreTeXt](https://pretextbook.org) project entirely in the cloud, using GitHub Codespaces.  
+### Kenan Ince, Sean Raleigh, and Bianca Thompson
+#### Department of Mathematics, Westminster College, Salt Lake City
+##### Including remixed materials from: 
+- [Mark Branson (Payday Loans)](https://web.stevenson.edu/mbranson/math-for-the-people.html)
+- Maybe you?
 
-## Instructions
+Welcome to the workbook's GitHub page! This is a work in progress, though I hope it is helpful to you. I believe this is the first attempt to write and republish as many open-access resources for teaching a quantitative reasoning course framed around social justice, specifically targeted at higher-ed math faculty, as possible. I am indebted to and model my work after the K-12 educators (e.g. [Bob Moses](https://rethinkingschools.org/articles/radical-equations/), [Jonathan Osler](https://radicalmath.org/) who have been doing this work for decades.
 
-Look for the green button at the top right of this page.  If the button says `Use this template`, then you are ready to create a new repository for your project.  Click on the button and select "Create a new repository".  On the next page, give your project a name, select public or private (this can be changed later), and click the "Create repository from template" button.
+The book itself is currently hosted [on my website](https://cs.westminstercollege.edu/~kince/qr4sj/). Feel free to explore, and don't hesitate to [reach out](mailto:kince@westminstercollege.edu) if you have comments, questions, or suggestions!
 
-You now have a GitHub repository saved in your account.  You can come back to that page any time you want to work on your project (note the URL or else find it in the list of your repositories when you log in to GitHub).
+## Compilation instructions
+This text is written in PreTeXt (previously called MathBook XML), so the primary source files can be found in the ptx directory. These can be compiled into HTML or LaTeX files (as well as some other formats). If you do not want to bother with this step or just want to grab some LaTeX to use in a worksheet or the like, the generated LaTeX is already provided in the latex folder.
 
-To start work on your project, go to the green button at the top of *your* repository's page, which will say `<> Code`.  
+## Contributing
+Any and all suggestions to improve the text are welcome. Thanks to those who have already pointed out typos/issues they have found. If you would like to make a more substantial contribution, please contact me so we can discuss how best to proceed.
 
-1. Click on this button.
-2. Click on the tab that says "Codespaces."
-3. Click "Create codespace on main."
+## License
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-This take a minute or two (just the first time; later this will be much faster) and then open a browser version of VS Code with everything set up to start working.  It will generate a new pretext book (and replace this README with one you can edit for your project). 
-
-Next time you want to work on your book, return to your newly created repository, go to the green `<> Code` button, and select the codespace you previously created.  If you don't see that codespace (perhaps you deleted it to save space), you can always create a new codespace.
+![This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)

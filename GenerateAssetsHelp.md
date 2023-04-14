@@ -4,4 +4,4 @@ If you need to generate assets, such as `latex-image` or `sageplot` as part of y
 
 sudo bash ./.devcontainer/postCreateCommand.sh
 
-You can also get this automatically when you create a new codespace.  When you go to create a new codespace, click the three dots next to the + sign on the first line of the menu.  Select "New with options..."  Then on the "Dev container configuration" select the "pretext-full" option.
+You can also get this automatically when you create a new codespace.  When you go to create a new codespace, click the three dots next to the + sign on the first line of the menu.  Select "New with options..."  Then on the "Dev container configuration" select the "pretext-full" optio.n
