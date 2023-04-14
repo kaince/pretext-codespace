@@ -8,39 +8,39 @@
     <author>
       <personname>Kenan Ince</personname>
       <department>Department of Mathematics</department>
-      <institution>Westminster College, Salt Lake City</institution>
-      </author>
+      <institution>Westminster University, Salt Lake City</institution>
+    </author>
     <author>
       <personname>Sean Raleigh</personname>
-      <department>Department of Mathematics</department>
-      <institution>Westminster College, Salt Lake City</institution>
-      </author>
+      <department>Departments of Mathematics and Data Science</department>
+      <institution>Westminster University, Salt Lake City</institution>
+    </author>
     <author>
       <personname>Bianca Thompson</personname>
       <department>Department of Mathematics</department>
-      <institution>Westminster College, Salt Lake City</institution>
+      <institution>Westminster University, Salt Lake City</institution>
     </author>
     <date><today/></date>
   </titlepage>
 
   <colophon>
     <website>
-      <name><c>kenanince.org</c></name>
-      <address>http://kenanince.org</address>
+      <name><c>cs.westminstercollege.edu/~kince</c></name>
+      <address>https://cs.westminstercollege.edu/~kince</address>
     </website>
 
     <copyright>
       <!-- In addition to specifying the copyright holder, you should  -->
       <!-- include a license, such as the cc-by-sa license shown below -->
       <!-- so people reading your book know how they can use it.       -->
-      <year>2022<ndash/>2023</year>
+      <year>2020<ndash/><today/></year>
       <holder>Kenan Ince</holder>
       <!-- <minilicense><image source="../images/by-sa.png" /></minilicense> -->
       <shortlicense>
         <!-- <image source="../images/by-sa.png" width="15%"/>  -->
         This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
         To view a copy of this license, visit
-        <url 
+        <url
           href="http://creativecommons.org/licenses/by-sa/4.0/"
           visual="creativecommons.org/licenses/by-sa/4.0">
           CreativeCommons.org</url>
@@ -52,13 +52,13 @@
 
   <dedication>
     <p>
-      For our students and all those who seek to make the world a more just place.
+      For all those who dare to dream of a more just world.
     </p>
   </dedication>
 
   <acknowledgement>
     <p>
-      I would like to thank my coauthors and colleagues in the Westminster College math department, who created the community in which this book was conceived and developed.
+      We would like to thank our colleagues at Westminster who have encouraged interdisciplinary and justice-minded thinking, every educator doing this work, and especially the activists and K-12 educators who have blazed the trail of social justice math for decades.
     </p>
 
   </acknowledgement>
@@ -67,11 +67,10 @@
     <!-- You should be a little careful about what you put here -->
     <!-- Avoid elements that should have a number, for example  -->
     <p>
-        You may access the PreTeXt source code for this book on <url href="https://github.com/kaince/qr-for-social-justice">GitHub</url>.
+      This workbook is designed to be used as the primary text for a course on quantitative reasoning with a particular focus on social and political issues. We encourage you to implement the chapters as modules in any relevant course; see <xref ref="ch-crashcourse" /> for some tips on beginning to develop such a course.
     </p>
 
   </preface>
 
   <!-- You can have more than one preface. -->
 </frontmatter>
-

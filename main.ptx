@@ -15,7 +15,7 @@
   <book xml:id="qr4sj">
     <!-- The book needs a title and can have a subtitle  -->
     <title>Quantitative Reasoning for Social Justice</title>
-    <subtitle>An active learning workbook</subtitle>
+    <subtitle>An Active Learning Workbook</subtitle>
 
     <!-- Now we include files containing each main devision.       -->
 
@@ -30,6 +30,7 @@
     <xi:include href="./ch_crashcourse.ptx" />
     <!-- <xi:include href="./ch_empty.ptx"/> -->
     <!-- Of course you will want to add more chapters as you proceed-->
+    <xi:include href="./ch_loans.ptx" />
 
     <!-- The final chapter contains a wide variety of elements to  -->
     <!-- illustrate what pretext can do, plus links to more help.  -->
