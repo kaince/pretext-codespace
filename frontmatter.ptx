@@ -6,25 +6,35 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>Me</personname>
-      <department>My department</department>
-      <institution>My school</institution>
+      <personname>Kenan Ince</personname>
+      <department>Department of Mathematics</department>
+      <institution>Westminster College, Salt Lake City</institution>
+      </author>
+    <author>
+      <personname>Sean Raleigh</personname>
+      <department>Department of Mathematics</department>
+      <institution>Westminster College, Salt Lake City</institution>
+      </author>
+    <author>
+      <personname>Bianca Thompson</personname>
+      <department>Department of Mathematics</department>
+      <institution>Westminster College, Salt Lake City</institution>
     </author>
     <date><today/></date>
   </titlepage>
 
   <colophon>
     <website>
-      <name><c>my-website.org</c></name>
-      <address>http://my.website.org</address>
+      <name><c>kenanince.org</c></name>
+      <address>http://kenanince.org</address>
     </website>
 
     <copyright>
       <!-- In addition to specifying the copyright holder, you should  -->
       <!-- include a license, such as the cc-by-sa license shown below -->
       <!-- so people reading your book know how they can use it.       -->
-      <year>2020<ndash/>2021</year>
-      <holder>Me</holder>
+      <year>2022<ndash/>2023</year>
+      <holder>Kenan Ince</holder>
       <!-- <minilicense><image source="../images/by-sa.png" /></minilicense> -->
       <shortlicense>
         <!-- <image source="../images/by-sa.png" width="15%"/>  -->
@@ -42,13 +52,13 @@
 
   <dedication>
     <p>
-      For ...
+      For our students and all those who seek to make the world a more just place.
     </p>
   </dedication>
 
   <acknowledgement>
     <p>
-      I would like to thank...
+      I would like to thank my coauthors and colleagues in the Westminster College math department, who created the community in which this book was conceived and developed.
     </p>
 
   </acknowledgement>
@@ -57,7 +67,7 @@
     <!-- You should be a little careful about what you put here -->
     <!-- Avoid elements that should have a number, for example  -->
     <p>
-      About this book:
+        You may access the PreTeXt source code for this book on <url href="https://github.com/kaince/qr-for-social-justice">GitHub</url>.
     </p>
 
   </preface>
