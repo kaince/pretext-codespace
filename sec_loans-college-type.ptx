@@ -1,10 +1,9 @@
 <section xml:id="student-debt-by-college-type">
     <title>Student Debt by College Type </title>
 
-<!-- div attr= xml:id="fig:total-us-consumer-debt" class="xca"-->
 <figure xml:id="fig-total-us-consumer-debt">
-    <caption>A graph showing total U.S. consumer debt of various types from 2003 to 2021.</caption>>
-    <image source="./total-us-consumer-debt.png" width="50%">
+    <caption>A graph showing total U.S. consumer debt of various types from 2003 to 2021.</caption>
+    <image source="/external/total-us-consumer-debt.png" width="50%">
         <description>A graph showing total U.S. consumer debt of various types from 2003 to 2021, showing that mortgage debt made up the vast majority of U.S. consumer debt in all years measured, around <m>70\%</m> in 2022, while student loan debt had increased over time to become the second-largest source of U.S. consumer debt, making up around <m>35\%</m> of non-mortgage debt in 2022. Source: Fitch Ratings, New York Fed Consumer Credit Panel, Equifax.
         </description>
     </image>
@@ -12,9 +11,8 @@
 
 <figure xml:id="fig-non-mortgage-debt">
     <caption>Breakdown of the percentage of U.S. non-mortgage consumer debt from 2009 to 2022.</caption>
-
-    <image source="./equifax-non-mortgage-debt.png" width="30%"> 
-        <description>Breakdown of the percentage of U.S. non-mortgage consumer debt from 2009 to 2022 showing the following approximate 2022 distribution: <m>35\%</m> auto debt, <m>35\%</m> student loan debt, <m>20\%</m> credit card debt, <m>3\%</m> consumer finance, <m>7\%</m> ``other''. Source: Equifax Inc., 2022.
+    <image source="/external/equifax-non-mortgage-debt" width="30%"> 
+        <description>Breakdown of the percentage of U.S. non-mortgage consumer debt from 2009 to 2022 showing the following approximate 2022 distribution: <m>35\%</m> auto debt, <m>35\%</m> student loan debt, <m>20\%</m> credit card debt, <m>3\%</m> consumer finance, <m>7\%</m> "other". Source: Equifax Inc., 2022.
         </description>
     </image>
 </figure>
