@@ -1,4 +1,4 @@
-<section xml:id="solving-for-change-student-loan-reform-activism-in-the-u.s.">
+<section xml:id="loans-solving-for-change">
     <title>Solving for Change: Student Loan Reform &amp; Activism in the U.S. </title>
 
     <p>
@@ -90,9 +90,9 @@
 		<!--</div attr= class="xca*">-->
     </exercisegroup>
 
-    <figure width="100%" xml:id="fig-occupy-student-loans">
+    <figure xml:id="fig-occupy-student-loans">
         <caption>A photo of two Occupy Wall Street protesters, one of whom carries a sign saying ``I Owe SallieMae <m>\$25,123.91</m>.'' Photo by Bob Jagendorf entitled ``Occupy Wall Street - Student Loans'' under a CC BY-NC 2.0 license.</caption>
-        <image source="occupy-wall-street-student-loans.jpg" width="10%">
+        <image source="./occupy-wall-street-student-loans.jpg" width="10%">
             <description>A photo of two Occupy Wall Street protesters, one of whom carries a sign saying ``I Owe SallieMae <m>\$25,123.91</m>.'' Photo by Bob Jagendorf entitled ``Occupy Wall Street - Student Loans'' under a CC BY-NC 2.0 license.</description>
         </image>
     </figure>
